@@ -1,1 +1,1 @@
-# simple-timer
+# Minimal Clock
